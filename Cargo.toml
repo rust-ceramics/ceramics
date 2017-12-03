@@ -1,0 +1,10 @@
+[package]
+name = "rust_ceramics"
+version = "0.1.0"
+authors = ["Keishi Kawada <Kk-shli@outlook.jp>"]
+description = "Web Framework for Rust and Web Develops Tool"
+repository = "https://github.com/rust-ceramics/ceramics"
+readme = "README.md"
+categories = ["web-programming"]
+
+[dependencies]
